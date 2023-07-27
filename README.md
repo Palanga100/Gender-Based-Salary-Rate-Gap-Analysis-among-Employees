@@ -1,4 +1,4 @@
-# Module2-Sprint2
+# Gender Based Salary Rate Gap Analysis among Employees
 https://public.tableau.com/app/profile/g.kasparaviciene/viz/Module2slides/Dashboard1
 
 
